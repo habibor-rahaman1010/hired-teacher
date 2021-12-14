@@ -1,0 +1,20 @@
+.maindiv{
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    width: 130px;
+    line-height: 27px;
+    border: none;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 150, 112);
+    font-size: 15px;
+}

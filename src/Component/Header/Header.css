@@ -1,0 +1,30 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    font-weight: 500;
+    align-items: center;
+    /* position: fixed; */
+    width: 100%;
+    z-index: 99;
+    padding-top: 10px;
+}
+.nav-item a{
+    margin-right: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.title a{
+    text-decoration: none;
+    font-size: 26px;
+    color: white;
+}
+.child{
+    display: flex;
+    align-items: center;
+}
+.child h2{
+    margin-right: 40px;
+}

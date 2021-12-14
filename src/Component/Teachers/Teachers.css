@@ -1,0 +1,12 @@
+.main{
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    grid-gap: 20px;
+}
+.teachers{
+    max-width: 75%;
+    margin-left: 15%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
